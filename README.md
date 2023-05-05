@@ -1,5 +1,6 @@
 ### Hi there 👋 dongchan kim
 
+[![Dongchan Alex Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongckim)](https://github.com/Dongckim/github-readme-stats)
 <!--
 **Dongckim/Dongckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
