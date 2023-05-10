@@ -1,3 +1,9 @@
+<h1 align = 'center'>Welcome to Dongchan Alex Kim's github!</h1>
+<div align = 'center'>Hi, I am FrontEnd Engineer and</div>
+<div align = 'center'>I am majoring in Bio-Informatics, specialized in Deep-Learning.</div>
+&nbsp
+&nbsp
+
 <div align = 'center'>
 
 [![dongckim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
