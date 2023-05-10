@@ -1,5 +1,5 @@
 <h1 align = 'center'>Welcome to Dongchan Alex Kim's github!</h1>
-<h3 align = 'center'>Hi, I am FrontEnd Engineer and </br>I am majoring in 'Molecular Biotechnology', specialized in 'Bio-Informatics', 'Deep-Learning'.</h3>
+<h3 align = 'center'>Hi, I am FrontEnd Engineer and </br>I am majoring in <i>'Molecular Biotechnology'</i>, specialized in <i>'Bio-Informatics'</i>, <i>'Deep-Learning'</i>.</h3>
 &nbsp
 &nbsp
 
