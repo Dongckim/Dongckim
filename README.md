@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fb2d2d,100:110e0e&height=300&section=header&text=Dongchan%20Alex%20%Kim's%20Github&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Hilarious%20Machine%20Learning,%20iOS%20and%20FE%20Developer%20:\)&20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fb2d2d,100:110e0e&height=300&section=header&text=Dongchan%20Alex%20%Kim's%20Github&fontSize=51.3&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Hilarious%20Machine%20Learning,%20iOS%20and%20FE%20Developer%20:\)&20&descAlignY=51&descAlign=62)
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
