@@ -5,7 +5,7 @@
 
 <div align = 'center'>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809&theme=cold)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim)
 
 </div>
