@@ -32,8 +32,8 @@ I majored in Molecular Biotechnology in Ghent University
 
 **Archive**
 
-<a href="https://github.com/su1715"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://velog.io/@sj_dev_js"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://github.com/Dongckim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://velog.io/@jjdc0809"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <br/>
 <br/>
