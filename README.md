@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a Developer of Machine Learning, Frontend, and iOS :)</li></li><li> I majored in Molecular Biotechnology at Ghent University</li></li><li> I am a passionate individual with a strong dedication to entrepreneurship.</li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a Developer of <i>Machine Learning</i>, <i>Frontend</i>, and <i>iOS</i> :)</li></li><li> I majored in <i>Molecular Biotechnology</i> at Ghent University</li></li><li> I am a passionate individual with a strong dedication to <i>Entrepreneurship</i>.</li></li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💪 Tech Stacks </h2> <br> 
