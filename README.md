@@ -5,7 +5,7 @@
 
 <div align = 'center'>
 
-[![dongckim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809}&theme=cold)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim)
 
 </div>
