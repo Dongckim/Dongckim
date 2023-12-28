@@ -37,8 +37,11 @@
          <a href=mailto:dongchankim1999@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dongchankim1999@gmail.com"> </a>
           </div>  <br> 
     <div align= "left">  
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Problem Solving </h2> <br> 
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Problem Solving </h2> 
     </div>
+</div>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjdc0809)](https://solved.ac/jjdc0809)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809&theme=warm)
 <!--
 **Dongckim/Dongckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
