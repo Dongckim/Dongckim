@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a Developer of Machine Learning, Frontend, and iOS :)</li></li><li> I majored in Molecular Biotechnology at Ghent University</li></li><li> I am a passionate individual with a strong dedication to entrepreneurship.</li></li> </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💪 Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
@@ -38,11 +38,8 @@
           </div>  <br> 
     <div align= "left">  
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Problem Solving </h2> <br> 
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjdc0809)](https://solved.ac/jjdc0809)
-    </div> 
     </div>
-    
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809&theme=warm)
 <!--
 **Dongckim/Dongckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
