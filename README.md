@@ -1,14 +1,48 @@
-<h1 align = 'center'>Welcome to Dongchan Alex Kim's github!</h1>
-<h3 align = 'center'>Hi, I am FrontEnd Engineer and </br>I am majoring in <i>'Molecular Biotechnology'</i>, specialized in <i>'Bio-Informatics'</i>, <i>'Machine Learning'</i>.</h3>
-&nbsp
-&nbsp
+<div align="center">
+  
+# Dongchan Alex Kim
+  
+  <br/>
+  <br/>
+  
+**About Me**
+  
+Hello, I'm Dongchan Kim.
+  
+I'm Developer of Machine Learning, Frontend and iOS :)
+  
+I majored in Molecular Biotechnology in Ghent University
+  
+  <br/>
+  <br/>
 
-<div align = 'center'>
+**Tech Stack**
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809&theme=cold)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Archive**
+
+<a href="https://github.com/su1715"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://velog.io/@sj_dev_js"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+<br/>
+<br/>
+
+
+**Problem Solving**
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjdc0809)](https://solved.ac/jjdc0809)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim)
 
 </div>
 <!--
