@@ -6,6 +6,8 @@
 <div align = 'center'>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjdc0809&theme=cold)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjdc0809)](https://solved.ac/jjdc0809)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim)
 
 </div>
