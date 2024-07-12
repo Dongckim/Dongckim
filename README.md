@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fb2d2d,100:110e0e&height=300&section=header&text=Dongchan%20Alex%20%Kim's%20Github&fontSize=51.3&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Hilarious%20Machine%20Learning,%20iOS%20and%20FE%20Developer%20:\)&20&descAlignY=51&descAlign=62)
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻  About me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a Developer of <i>Machine Learning</i>, <i>iOS</i>, and <i>Frontend</i>.</li></li><li> I majored in <i>Molecular Biotechnology</i> at Ghent University.</li></li><li>I am deeply intrigued by the potential of ML to revolutionize Apps/Webs, and dedicated to crafting innovative solutions.</li></li><li> I am a passionate individual with a strong dedication to <i>Entrepreneurship</i>.</li></li> </div> 
