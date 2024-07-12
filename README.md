@@ -1,6 +1,9 @@
+# 김동찬 Alex [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongckim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/) [![iOS Badge](https://img.shields.io/badge/iOS-808080?style=flat-square&logo=iOS&logoColor=white)](https://reactjs.org/)
+
+👩‍💻 Student Developer [HomePage](https://www.dong-chan.com/) | [EMAIL](dongchankim1999@gmail.com)
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻  About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a Developer of <i>Machine Learning</i>, <i>iOS</i>, and <i>Frontend</i>.</li></li><li> I majored in <i>Molecular Biotechnology</i> at Ghent University.</li></li><li>I am deeply intrigued by the potential of ML to revolutionize Apps/Webs, and dedicated to crafting innovative solutions.</li></li><li> I am a passionate individual with a strong dedication to <i>Entrepreneurship</i>.</li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a Developer of <i>Machine Learning</i>, with infrastructure (<i>iOS</i>, <i>Frontend</i>).</li></li><li> I majored in <i>Technology System Management, and Specialization of Computer Science</i> at The State University of New York.</li></li><li>I am deeply intrigued by the potential of ML to revolutionize Apps/Webs, and dedicated to crafting innovative solutions.</li></li><li> I am a passionate individual with a strong dedication to <i>Entrepreneurship</i>.</li></li> </div> 
 </div>
      <br/>
     <br/>
@@ -32,7 +35,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📬  Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/dck_alx/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dck_alx/"> </a>
-         <a href=https://velog.io/@jjdc0809/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jjdc0809/posts"> </a>
+         <a href=https://dong-chan.com> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jjdc0809/posts"> </a>
          <a href=mailto:dongchankim1999@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dongchankim1999@gmail.com"> </a>
     </div>
      <br/>
