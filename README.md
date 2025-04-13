@@ -4,10 +4,10 @@
 
 ## 👨‍💻 About Me
 
-> + I'm passionate about **Virtual/Augmented Reality**, especially where it intersects with **Machine Learning**. <br/>
-> + I believe XR is the natural evolution beyond the mobile era, and I strive to build immersive, intelligent systems.<br/>
-> + I enjoy crafting full-stack experiences that merge 3D interaction with real-world utility.<br/>
-> + I dream of becoming a **core engineer** who leads the **future of spatial computing**.<br/>
++ I'm passionate about **Virtual/Augmented Reality**, especially where it intersects with **Machine Learning**. <br/>
++ I believe XR is the natural evolution beyond the mobile era, and I strive to build immersive, intelligent systems.<br/>
++ I enjoy crafting full-stack experiences that merge 3D interaction with real-world utility.<br/>
++ I dream of becoming a **core engineer** who leads the **future of spatial computing**.<br/>
 
 <br/>
 
@@ -33,7 +33,6 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=transparent&rank_icon=github&border_radius=5&title_color=4DB6AC&text_color=FFFFFF&icon_color=4DB6AC" width="48%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim&hide_progress=true&theme=transparent&title_color=4DB6AC&text_color=FFFFFF&border_radius=5" width="40%" height="200px" />
 </div>
 
 <!-- GitHub Contribution Graph -->
