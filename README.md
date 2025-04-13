@@ -30,22 +30,25 @@
 <br/>
 
 ## 📈 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffa500&icon_color=ffa500&text_color=ffffff" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim&layout=donut&theme=github_dark&bg_color=0d1117&title_color=ffa500&text_color=ffffff" width="38%" />
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=transparent&rank_icon=github&border_radius=5&title_color=4DB6AC&text_color=FFFFFF&icon_color=4DB6AC" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim&layout=compact&theme=transparent&title_color=4DB6AC&text_color=FFFFFF&border_radius=5" width="48%" height="200px" />
 </div>
 
-<div href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongckim&bg_color=101010&color=f1f1f0&line=f79a09&border_color=404040&point=dcdcdc&radius=8" width="94.5%" />
+<!-- GitHub Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongckim&theme=github-compact&radius=10&area=true&hide_border=true&color=4DB6AC&line=26C6DA&point=80DEEA" width="96%" />
 </div>
+
+
 
 <br/>
 
 ## 📑 Problem Solving
-<div>
-  <img src="https://leetcard.jacoblin.cool/ui3Ec4bvfw?theme=dark&font=Baloo" width="61.7%" />
-  <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=jjdc0809" width="32.8%" />
+<div align="center">
+  <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=jjdc0809&theme=minimal&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="32.8%" />
+  <img src="https://leetcard.jacoblin.cool/ui3Ec4bvfw?theme=minimal&font=Baloo&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="61.7%" />
 </div>
 
 <br/>
