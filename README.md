@@ -33,7 +33,7 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=transparent&rank_icon=github&border_radius=5&title_color=4DB6AC&text_color=FFFFFF&icon_color=4DB6AC" width="48%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim&hide_progress=true&theme=transparent&title_color=4DB6AC&text_color=FFFFFF&border_radius=5" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim&hide_progress=true&theme=transparent&title_color=4DB6AC&text_color=FFFFFF&border_radius=5" width="40%" height="200px" />
 </div>
 
 <!-- GitHub Contribution Graph -->
