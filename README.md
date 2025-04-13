@@ -1,51 +1,55 @@
-# 김동찬 ALEX [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongckim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](https://reactjs.org/) [![Threejs Badge](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org/) [![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-👨🏾‍💻 Student Developer [HomePage](https://www.dong-chan.com/) | [EMAIL](dongchan.kim.1@stonybrook.edu)
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻  About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> </li><li> I'm a engineer of <i>Virtual/Augmented Reality</i>. </li></li><li> I majored in <i>Technology System Management, Specialized in Computer Science</i> at The State University of New York, Stonybrook.</li></li><li>I am deeply intrigued by the potential of VR/AR with ML, and dedicated to crafting innovative solutions.</li></li> </div> 
+# Dongchan Alex Kim | 김동찬  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://www.dong-chan.com/) 
+### Junior @ State University of NewYork, Stony Brook Univ. | TSM Major & CS Specialization  
+> 🥽 XR Developer | 🌐 Engineering the Next-Gen Immersive Era  
+
+## 👨‍💻 About Me
+
+- I'm passionate about **Virtual/Augmented Reality**, especially where it intersects with **Machine Learning**.
+- I believe XR is the natural evolution beyond the mobile era, and I strive to build immersive, intelligent systems.
+- I enjoy crafting full-stack experiences that merge 3D interaction with real-world utility.
+- I dream of becoming a **core engineer** who leads the **future of spatial computing**.
+
+<br/>
+
+## 🛠 Tech Stack
+
+### **Core Interests**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)  ![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)  
+
+### **ML & Programming**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)  
+
+### **App & Web / Frontend**
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
+ ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=white)  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+
+### **Backend / Infra**
+![Firebase](https://img.shields.io/badge/Firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)  
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffa500&icon_color=ffa500&text_color=ffffff" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongckim&layout=donut&theme=github_dark&bg_color=0d1117&title_color=ffa500&text_color=ffffff" width="38%" />
 </div>
-     <br/>
-    <br/>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️  Tech Stacks </h2> <br> 
-    <div  align= "center">
-        <img src ="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
-        <img src ="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
-        <img src ="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-        <br/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    </div>
-    </div>
-     <br/>
-    <br/>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📬  Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/dck_alx/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dck_alx/"> </a>
-         <a href=https://dong-chan.com> <img src="https://img.shields.io/badge/githubpage-222222?style=for-the-badge&logo=githubpage&logoColor=white&link=https://velog.io/@jjdc0809/posts"> </a>
-         <a href=mailto:dongchankim1999@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dongchankim1999@gmail.com"> </a>
-    </div>
-     <br/>
-    <br/>
+
+<div href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongckim&bg_color=101010&color=f1f1f0&line=f79a09&border_color=404040&point=dcdcdc&radius=8" width="94.5%" />
 </div>
 
-<!--
-**Dongckim/Dongckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 📑 Problem Solving
+<div>
+  <img src="https://leetcard.jacoblin.cool/ui3Ec4bvfw?theme=dark&font=Baloo" width="61.7%" />
+  <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=jjdc0809" width="32.8%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongckim99/)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dongchankim1999@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dck_alx/)  [![Personal Site](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dong-chan.com/)
