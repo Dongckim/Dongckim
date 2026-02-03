@@ -1,4 +1,4 @@
-# Dongchan Alex Kim | 김동찬  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://www.dong-chan.com/) 
+# Dongchan Alex Kim | 김동찬  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://www.dongchan.me/) 
 ### Senior @ Stony Brook University | CS Specialization in TSM
 > **Systems & Full Stack Engineer** | Optimizing the Bridge Between AI and Reality
 
