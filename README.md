@@ -1,6 +1,6 @@
 # Dongchan Alex Kim | 김동찬  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://www.dong-chan.com/) 
 ### Senior @ Stony Brook University | CS Specialization in TSM
-> 🚀 **Systems & Full Stack Engineer** | Optimizing the Bridge Between AI and Reality
+> **Systems & Full Stack Engineer** | Optimizing the Bridge Between AI and Reality
 
 ## 👨‍💻 About Me
 
@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=transparent&rank_icon=github&border_radius=5&title_color=4DB6AC&text_color=FFFFFF&icon_color=4DB6AC" width="48%" height="200px" />
+  <img src="https://leetcard.jacoblin.cool/ui3Ec4bvfw?theme=minimal&font=Baloo&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="60%" />
 </div>
 
 <div align="center">
