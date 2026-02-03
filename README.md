@@ -1,56 +1,47 @@
 # Dongchan Alex Kim | 김동찬  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://www.dong-chan.com/) 
-### Junior @ State University of NewYork, Stony Brook Univ. | TSM Major & CS Specialization  
-> 🥽 XR Developer | 🌐 Engineering the Next-Gen Immersive Era  
+### Senior @ Stony Brook University | CS Specialization in TSM
+> 🚀 **Systems & Full Stack Engineer** | Optimizing the Bridge Between AI and Reality
 
 ## 👨‍💻 About Me
 
-+ I'm passionate about **Virtual/Augmented Reality**, especially where it intersects with **Machine Learning**. <br/>
-+ I believe XR is the natural evolution beyond the mobile era, and I strive to build immersive, intelligent systems.<br/>
-+ I enjoy crafting full-stack experiences that merge 3D interaction with real-world utility.<br/>
-+ I dream of becoming a **core engineer** who leads the **future of spatial computing**.<br/>
++ I am a **Performance-driven Engineer** obsessed with reducing latency and architecting scalable systems.
++ **MIT Reality Hack 2026 Grand Prize Winner**: Engineered a high-performance AI backend reducing latency by 60%.
++ Experienced in building **real-time synchronization servers** and robust **CI/CD pipelines** using Docker.
++ I strive to build the most responsive and intuitive interfaces where **Spatial Computing meets Scalable Backends**.
 
 <br/>
 
 ## 🛠 Tech Stack
 
-### **Core Interests, XR**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)  ![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)  
+### **Backend & Infra**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-### **ML & Programming**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)  
+### **Frontend & XR**
+![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### **App & Web / Frontend**
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
- ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=white)  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+### **Tools & Automation**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Backend / Infra**
-![Firebase](https://img.shields.io/badge/Firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)  
+<br/>
+
+## 🏆 Key Achievements
+* **MIT Reality Hack 2026**: Grand Gold Award & Meta Track Winner.
+* **Google-Sessak Hackathon**: Top Honorable Mention Winner.
+* **Performance Engineering**: Achieved **<50ms frame variance** and **60% latency reduction**.
 
 <br/>
 
 ## 📈 GitHub Stats
-<!-- GitHub Stats Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dongckim&show_icons=true&theme=transparent&rank_icon=github&border_radius=5&title_color=4DB6AC&text_color=FFFFFF&icon_color=4DB6AC" width="48%" height="200px" />
 </div>
 
-<!-- GitHub Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongckim&theme=github-compact&radius=10&area=true&hide_border=true&color=4DB6AC&line=26C6DA&point=80DEEA" width="96%" />
-</div>
-
-
-
-<br/>
-
-## 📑 Problem Solving &nbsp; [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjdc0809)](https://solved.ac/jjdc0809)
-<div>
-  <img src="https://leetcard.jacoblin.cool/ui3Ec4bvfw?theme=minimal&font=Baloo&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="61.7%" />
 </div>
 
 <br/>
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongckim99/)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dongchankim1999@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dck_alx/)  [![Personal Site](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dong-chan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongckim99/)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dck.alx@gmail.com)  [![Personal Site](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dongchan.me/)
