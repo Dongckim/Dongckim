@@ -32,9 +32,9 @@
 <br/>
 
 ## 📈 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/ui3Ec4bvfw?theme=minimal&font=Baloo&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="60%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongckim&theme=github-compact&radius=10&area=true&hide_border=true&color=4DB6AC&line=26C6DA&point=80DEEA" width="96%" />
