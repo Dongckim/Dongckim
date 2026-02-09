@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-+ I am a **Performance-driven Engineer** obsessed with reducing latency and architecting scalable systems.
++ I am a **Stability-driven Engineer** obsessed with reducing latency and architecting scalable systems.
 + **MIT Reality Hack 2026 Grand Prize Winner**: Engineered a high-performance AI backend reducing latency by 60%.
 + Experienced in building **real-time synchronization servers** and robust **CI/CD pipelines** using Docker.
 + I strive to build the most responsive and intuitive interfaces where **Spatial Computing meets Scalable Backends**.
