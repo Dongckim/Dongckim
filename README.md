@@ -1,6 +1,6 @@
 # Dongchan Alex Kim | 김동찬  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://www.dongchan.me/) 
 ### Senior @ Stony Brook University | CS Specialization in TSM
-> **Systems Architect & Fullstack Engineer** | Optimizing the Bridge Between AI and Reality
+> **Architecture-focused Fullstack Engineer** | Optimizing the Bridge Between AI and Reality
 
 ## 👨‍💻 About Me
 
